@@ -3,7 +3,7 @@
 <img src="https://avatars.mds.yandex.net/get-bunker/56833/13634d10eba08e395b1133c6743c24517b433ecb/orig" width="650px" />
 </p>
 
-Чтобы добавить карту распространения коронавируса к себе на сайт необходимо в html код страницы добавить тег:
+Чтобы добавить карту распространения коронавируса к себе на сайт, необходимо в html код страницы добавить тег:
 
 ```html
 <iframe src="https://yandex.ru/maps/covid19?embed=covid" width="800px" height="500px"></iframe>
